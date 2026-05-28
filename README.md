@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Khaled
 
-I'm a Data Science & AI student at GISMA University of Applied Sciences in Berlin, originally from Mauritania and raised in the UAE. I'm building toward a career in data engineering and analytics engineering — focused on pipelines, infrastructure, and turning raw data into something actually useful.
+I'm a Data Science & AI student at GISMA University of Applied Sciences in Berlin. I'm building toward a career in data engineering and analytics engineering — focused on pipelines, infrastructure, and turning raw data into something actually useful.
 
 Currently working with Python, PySpark, and Databricks in university, and building portfolio projects with Streamlit and Plotly on the side.
 
