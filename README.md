@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Khaled2027/Khaled2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -17,5 +17,4 @@ I believe that lifelong learning is the only way to stay ahead in a rapidly evol
 ![](https://streak-stats.demolab.com/?user=khaled2027&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=khaled2027&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
