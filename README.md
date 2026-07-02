@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Khaled
+## Hi there  I'm Khaled
 
 I'm a Data Science & AI student at GISMA University of Applied Sciences in Berlin. I'm building toward a career in data engineering and analytics engineering. Focused on pipelines, infrastructure, and turning raw data into something actually useful.
 
