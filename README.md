@@ -11,9 +11,7 @@ Currently working with Python, R, and Rstudio in university, and building portfo
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3670A0" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="R" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rstudio/75AADB" title="RStudio" alt="RStudio" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" title="Apache Spark" alt="Spark" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4479A1" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" title="Plotly" alt="Plotly" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/FF3621"
+  <img src="https://cdn.simpleicons.org/database/4479A1" title="SQL" alt="SQL" width="45" height="45"/>
+</p>
