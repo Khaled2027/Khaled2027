@@ -9,10 +9,10 @@ Currently working with Python, R, and Rstudio in university, and building portfo
 
 ## 💻 Tech Stack:
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/r/276DC3" title="R" alt="R" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" title="Apache Spark" alt="Spark" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/00758F" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" title="Databricks" alt="Databricks" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/python/2B5B84" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/r/1B4F8C" title="R" alt="R" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/0B0230" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/A83C10" title="Apache Spark" alt="Spark" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/00485A" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/B8250F" title="Databricks" alt="Databricks" width="45" height="45"/>
 </p>
