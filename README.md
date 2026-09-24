@@ -9,14 +9,10 @@ Currently working with Python and building portfolio projects with Streamlit and
 
 ### 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,postgres,vscode" />
-</p>
+![](https://skillicons.dev/icons?i=python,r,postgres,vscode)
 
 As well as:
 
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
